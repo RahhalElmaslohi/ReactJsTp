@@ -1,0 +1,32 @@
+{
+  "produits": [
+    {
+      "id": 2,
+      "nom": "Produit 2",
+      "description": "Description du produit 2",
+      "prix": "666667",
+      "categorie": "Catégorie 2"
+    },
+    {
+      "id": 3,
+      "nom": "tv",
+      "description": "electronique",
+      "prix": "066",
+      "categorie": "plasma tv"
+    },
+    {
+      "id": 4,
+      "nom": "laptop",
+      "description": "macbook",
+      "prix": "888",
+      "categorie": "electronique"
+    },
+    {
+      "id": 5,
+      "nom": "Une nouvelle biere",
+      "description": "good-thing",
+      "prix": "8888",
+      "categorie": "life"
+    }
+  ]
+}
